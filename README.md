@@ -5,5 +5,6 @@ Auther: me
 
 Supervisor: Dr. Imad M. Jaimoukha
 
-Imperial College London
 Department of Eletrical and Electronic Engineering
+
+Imperial College London
